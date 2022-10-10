@@ -1,1 +1,3 @@
-## Blog, hello!
+---
+layout: blog_toplevel
+---
