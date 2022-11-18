@@ -6,6 +6,6 @@ layout: default
 
 My name is Luca, I'm a security enthusiast. 
 
-I'm interested mainly in all low-level stuff (OS internals, binary exploitation)
+I'm interested in all low-level stuff (OS internals, binary exploitation...)
 
 
