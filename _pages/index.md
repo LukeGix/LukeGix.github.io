@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to my blog!
 
-## whoami
+## $whoami
 
 My name is Luca, I'm a cybersecurity enthusiast, studying IT security at University of Milan (Italy).
 
