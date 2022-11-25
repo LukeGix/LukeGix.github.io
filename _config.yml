@@ -5,7 +5,7 @@ author: LukeGix
 description: Welcome to my blog :)
 disqus_forum_shortname:
 google_site_verification_content: # The 'content' tag for site verification
-google_analytics: # Your Google Analytics Tracking ID
+google_analytics: G-2N21MCTQXV # Your Google Analytics Tracking ID
 
 # Usernames and badges
 htb_badge_no: # Go to the HackTheBox site and copy your ID
