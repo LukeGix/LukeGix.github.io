@@ -18,3 +18,4 @@ I'm interested in:
 * Kernel and user-space exploitation on Linux (Windows soon...)
 * OS Internals
 * Reverse engineering
+* Hypervisors
