@@ -6,7 +6,7 @@ layout: default
 
 ## $whoami
 
-My name is Luca, I'm a cybersecurity enthusiast, studying IT security at University of Milan (Italy).
+My name is Luca, I'm a Vulnerability Researcher.
 
 ![Horrible picture of myself](/assets/images/pic.jpg "Yeah, I am this guy")
 
