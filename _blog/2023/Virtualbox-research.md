@@ -15,3 +15,5 @@ TL;DR: I managed to write a full exploit for a linux host and a windows host (bo
 
 I will present my project at m0leCon 2023 in Turin (December 2nd). [Here](https://m0lecon.it) you can find more details about the conference :)
 The talk is going to be recorded, I'll post here the link to the video once it's released, I'll post the slides too. I can't wait for next week! :)
+
+![Image](/assets/images/molecon.jpg)
