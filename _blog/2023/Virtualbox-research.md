@@ -17,3 +17,10 @@ I will present my project at m0leCon 2023 in Turin (December 2nd). [Here](https:
 The talk is going to be recorded, I'll post here the link to the video once it's released, I'll post the slides too. I can't wait for next week! :)
 
 ![Image](/assets/images/molecon.jpg)
+
+[Link to the slides](/assets/blog/2023/Virtualbox-research-1/VirtualBox-m0leCon.pdf)
+
+Useful resources:
+
+* [Chocolate Milk: E1000 NIC driver](https://youtu.be/imdUGT3tZEU) (by Gamozolabs)
+* [E1000 Specification Manual](https://pdos.csail.mit.edu/6.828/2017/readings/hardware/8254x_GBe_SDM.pdf)
