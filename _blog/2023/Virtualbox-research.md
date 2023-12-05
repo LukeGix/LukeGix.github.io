@@ -20,6 +20,15 @@ The talk is going to be recorded, I'll post here the link to the video once it's
 
 [Link to the slides](/assets/blog/2023/Virtualbox-research-1/VirtualBox-m0leCon.pdf)
 
+
+## Exploit Demo (Windows Host OS)
+
+![Windows](/assets/blog/2023/Virtualbox-research-1/Proc_cont_win.mp4)
+
+## Exploit Demo (Linux Host OS)
+
+![Linux](/assets/blog/2023/Virtualbox-research-1/Proc_cont.mp4)
+
 Useful resources:
 
 * [Chocolate Milk: E1000 NIC driver](https://youtu.be/imdUGT3tZEU) (by Gamozolabs)
