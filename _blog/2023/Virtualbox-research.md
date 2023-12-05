@@ -23,11 +23,11 @@ The talk is going to be recorded, I'll post here the link to the video once it's
 
 ## Exploit Demo (Windows Host OS)
 
-![Windows](/assets/blog/2023/Virtualbox-research-1/Proc_cont_win.mp4)
+<video src="/assets/blog/2023/Virtualbox-research-1/Proc_cont_win.mp4"></video>
 
 ## Exploit Demo (Linux Host OS)
 
-![Linux](/assets/blog/2023/Virtualbox-research-1/Proc_cont.mp4)
+<video src="/assets/blog/2023/Virtualbox-research-1/Proc_cont.mp4"></video>
 
 Useful resources:
 
