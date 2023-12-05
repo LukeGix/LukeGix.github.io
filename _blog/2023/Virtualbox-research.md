@@ -18,11 +18,10 @@ The talk is going to be recorded, I'll post here the link to the video once it h
 
 ![Image](/assets/images/molecon.jpg)
 
-[Link to the slides](/assets/blog/2023/Virtualbox-research-1/VirtualBox-m0leCon.pdf)
-[Link to the exploits](https://github.com/LukeGix/CVE-2019-2722_Exploit)
+## Resources
 
-Useful resources:
-
+* [Link to the slides](/assets/blog/2023/Virtualbox-research-1/VirtualBox-m0leCon.pdf)
+* [Link to the exploits](https://github.com/LukeGix/CVE-2019-2722_Exploit)
 * [Chocolate Milk: E1000 NIC driver](https://youtu.be/imdUGT3tZEU) (by Gamozolabs)
 * [E1000 Specification Manual](https://pdos.csail.mit.edu/6.828/2017/readings/hardware/8254x_GBe_SDM.pdf)
 
